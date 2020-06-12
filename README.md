@@ -1,4 +1,4 @@
-# :rocket: Maratona-dev-rocketseat
+# Maratona-dev-rocketseat :rocket: 
  Repositório responsável por armazenar o conteúdo desenvolvido durante a **Maratona Dev** promovida pela Rocketseat.
 
 
@@ -13,11 +13,11 @@ O DOE é uma aplicação de cadastro de doadores de sangue.
 Nesse sentido, o usuário pode dizer seu nome, email, e tipo sanguínio.
 Após o cadastro ser feito, ele é adicionado no painel de últimos doadores.
 
-## :computer: Tecnologias utilizadas:
+##  Tecnologias utilizadas: :computer:
 * Front-end: HTML, CSS e JavaScript
 * Back-end: Node.js
    * Banco de dados: sqlite3
 
-## :rocket: Como rodar:
+## Como rodar:  :rocket:
 1. Primeiro passo: iniciar o `npm install` para instalar as dependencias
 1. Rodar `npm start` para iniciar o servidor 
