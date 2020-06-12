@@ -4,10 +4,10 @@
 
 ## DOE sua doação importa:
 
-![Page Inicial](screenshots/Doe.PNG)
 
 
-![Forms](screenshots/DoeForm.PNG)
+<img src="screenshots/Doe.PNG" width="500" height="400" />
+<img src="screenshots/DoeForm.PNG" width="500" height="400" />
 
 
 O projeto foi desenvolvido em dois dias durante o evento Maratona Dev da rocketseat.
