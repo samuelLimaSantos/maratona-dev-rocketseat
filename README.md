@@ -4,6 +4,12 @@
 
 ## DOE sua doação importa:
 
+![Page Inicial](screenshots/Doe.PNG)
+
+
+![Forms](screenshots/DoeForm.PNG)
+
+
 O projeto foi desenvolvido em dois dias durante o evento Maratona Dev da rocketseat.
 O DOE é uma aplicação de cadastro de doadores de sangue.
 Nesse sentido, o usuário pode dizer seu nome, email, e tipo sanguínio.

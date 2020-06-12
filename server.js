@@ -69,7 +69,6 @@ server.post('/', function(req, res) {
         if (err) {
             console.log(err);
         }
-        console.log("Deu certo carai");
         return res.render("sucess.html");
     });
 
